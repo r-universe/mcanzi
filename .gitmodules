@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/mcanzi/mcanzi.r-universe.dev
 	branch = HEAD
+[submodule "glasses3"]
+	path = glasses3
+	url = https://github.com/mcanzi/glasses3
+[submodule "konstats"]
+	path = konstats
+	url = https://github.com/mcanzi/konstats
+[submodule "silverback"]
+	path = silverback
+	url = https://github.com/mcanzi/silverback
+[submodule "simling"]
+	path = simling
+	url = https://github.com/mcanzi/simling
