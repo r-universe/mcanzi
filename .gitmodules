@@ -14,3 +14,6 @@
 [submodule "simling"]
 	path = simling
 	url = https://github.com/mcanzi/simling
+[submodule "tidycrates"]
+	path = tidycrates
+	url = https://github.com/mcanzi/tidycrates
